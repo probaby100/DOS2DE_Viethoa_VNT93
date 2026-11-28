@@ -42,7 +42,7 @@
 	<content contentuid="h5ff3c6fbg31ceg4c43ga706ga49d9f56e5ec" version="1">Academy Thất Thần</content>
 	<content contentuid="hcfc39111gbb80g41a7gb999g32d3b313399b" version="1">Temple of Amadia</content>
 	<content contentuid="h9dd24c6bg4084g427fg8be9g2616d4f4a917" version="1">Cõi Thu Nhỏ Của Tộc Tiểu Quỷ Imp</content>
-	<content contentuid="h06bef68eg8bfcg4903ga857gb0f4aea9dcc7" version="1">Arena of the One</content>
+	<content contentuid="h06bef68eg8bfcg4903ga857gb0f4aea9dcc7" version="1">Đấu Trường Của Đấng Duy Nhất</content>
 	<content contentuid="hb5b043f6ge901g493agb772ga88a47c6bbb8" version="1">Murky Cave</content>
 	<content contentuid="ha131724fga605g4c9cgaaefg65497e587664" version="1">Hang Động Cổ Xưa</content>
 	<content contentuid="hb19a2d90gf77eg4156gbaf5gd1cf62f2c7fe" version="1">Phòng Tác Chiến</content>
@@ -467,7 +467,7 @@
 	<content contentuid="h040ae8ebg66eag4e98gb1b1ga42dc42160be" version="1">Được tạo hình tựa như bộ móng vuốt của loài chim săn mồi, đôi ủng nhẹ tựa lông vũ này vừa êm ái trong từng bước chân lại vừa nguy hiểm khôn lường.</content>
 	<content contentuid="h5ce60756g2e12g436bga37agc031a8bdbd31" version="1">Ấm áp đến ngạc nhiên dù làm từ chất vải mỏng, chiếc quần này được dệt họa tiết lông vũ nhỏ dọc theo đường may ngoài.</content>
 	<content contentuid="h9b9762bagb087g4150g9086g3096eadf94d1" version="1">Một chiếc mặt nạ bằng xương sắc nhọn tựa mỏ chim, chạm khắc những hoa văn tinh xảo trông như một nụ cười nhe răng. Coi chừng phần chóp nhọn đấy.</content>
-	<content contentuid="hbc38edfege5dag4c0fgaa85ga3e5a545ea52" version="1">Được điểm xuyết bằng những chiếc lông vũ của Duna&apos;s Undertaker, chiếc áo khoác này rung lên sức mạnh của một vị thần. Nó nhẹ đến mức như chẳng hề có trọng lượng, tựa hồ đang nôn nóng muốn bay vút lên.</content>
+	<content contentuid="hbc38edfege5dag4c0fgaa85ga3e5a545ea52" version="1">Được điểm xuyết bằng những chiếc lông vũ của Người Đưa Táng của Duna, chiếc áo khoác này rung lên sức mạnh của một vị thần. Nó nhẹ đến mức như chẳng hề có trọng lượng, tựa hồ đang nôn nóng muốn bay vút lên.</content>
 	<content contentuid="hb040398bg606ag44e0g88afga07bd0cc7108" version="1">Distinctive Blood Rose</content>
 	<content contentuid="hde272a0egcb1eg414agad7cg2102ab159bbe" version="1">Distinctive Amadouvier</content>
 	<content contentuid="h92985f6eg0956g4854g8105g7661a83a6df5" version="1">Distinctive Drudanae</content>
@@ -8929,7 +8929,7 @@
 	<content contentuid="h1297901eg79b4g4176g94c8g25d2306129c4" version="1">Elf Friend</content>
 	<content contentuid="hf2d0ef12g3f45g4daeg8ebdgd406df125541" version="1">Dwarf Friend</content>
 	<content contentuid="h849ab43bg64aeg4397ga501gd89455a386b5" version="1">Trận Chiến Sinh Tử</content>
-	<content contentuid="hce4af935gfb46g4693g9f55g7a4c06a20e50" version="1">Kill the King</content>
+	<content contentuid="hce4af935gfb46g4693g9f55g7a4c06a20e50" version="1">Sát Vương</content>
 	<content contentuid="h3127c3aegc341g4641gab07gb6a54e1d453c" version="1">Đoạt Cổ Vật</content>
 	<content contentuid="h7ee7d8e3g7d27g4c33ga2aegb81a9ae03417" version="1">Deathmatch with Monsters</content>
 	<content contentuid="habe42abdg856ag46e5gb6e2g5bb6fe97361c" version="1">Thất bại! Bạn đã bị hạ gục!</content>
@@ -9005,7 +9005,7 @@
 	<content contentuid="h470412aegd5d4g4429g96dfg888f6a0d184b" version="1">Giữ [IE_DestructionToggle] sẽ cho phép bạn phá hủy các vật thể vô tri như thùng gỗ hay ghế ngồi — hoặc tấn công những nhân vật thân thiện đang mất cảnh giác.</content>
 	<content contentuid="h975207b5gb68cg4f9dgae15g5dc7eefd3334" version="1">Dùng [IE_DestructionToggle] để phá hủy các vật thể vô tri như thùng gỗ hay ghế ngồi — hoặc tấn công những nhân vật thân thiện đang mất cảnh giác.</content>
 	<content contentuid="hd2e816a0g9ec7g4a4cg8210g32dcd3f2bc81" version="1">Bạn có thể chỉnh tốc độ lia góc nhìn khi chạm mép màn hình trong mục Trò Chơi của Bảng Tùy Chọn; bạn cũng có thể tắt hoàn toàn tính năng này.</content>
-	<content contentuid="hd1502ce7g66a0g4e3cgb3b0ga56745fee96d" version="1">Arrow và các tia phép sẽ bay xuyên qua đồng hành của bạn mà không gây hại, nhưng các vụ nổ và hiệu ứng diện rộng sẽ ảnh hưởng đến tất cả mọi người.</content>
+	<content contentuid="hd1502ce7g66a0g4e3cgb3b0ga56745fee96d" version="1">Mũi tên và các tia phép sẽ bay xuyên qua đồng hành của bạn mà không gây hại, nhưng các vụ nổ và hiệu ứng diện rộng sẽ ảnh hưởng đến tất cả mọi người.</content>
 	<content contentuid="h06fb65d7g2646g45e9g8ee2gf4c1c1028666" version="1">Làm chủ các nguyên tố! Tạo ra dòng điện trên bề mặt nước sẽ điện hóa cả vùng nước lẫn tất cả những ai đứng trên đó.</content>
 	<content contentuid="h74c5434bgab1cg4d39g9137g858d71594e8b" version="1">Bề mặt chất nhầy không chỉ gây trúng độc cho bất kỳ ai giẫm phải mà còn rất dễ bắt lửa. Hãy bước đi cẩn trọng.</content>
 	<content contentuid="h5542b809g8479g405ag90e9g382e7b7e5e41" version="1">Nước có thể biến thành băng thông qua các phép đóng băng hoặc bốc thành mây hơi nước khi gặp lửa.</content>
@@ -9145,7 +9145,7 @@
 	<content contentuid="hf723e005gc662g49fdgae93g3e6524a3ab33" version="1">Đây là một &lt;font color=&quot;008858&quot;&gt;cuộc đối thoại nhóm&lt;/font&gt;. Tính năng này cho phép bạn nhập vai vào những màn thảo luận giữa các thành viên trong nhóm.</content>
 	<content contentuid="h59e09cbegc186g4ebcgbc75g9bf9d253d973" version="1">Một thành viên trong nhóm của bạn đang thấp máu. Hãy dùng &lt;font color=&quot;008858&quot;&gt;dược phẩm&lt;/font&gt; hồi máu hoặc &lt;font color=&quot;008858&quot;&gt;phép thuật&lt;/font&gt; trị thương để giúp họ, hoặc thử dùng thức ăn và đồ uống xem sao.</content>
 	<content contentuid="hf296a95fg5ec3g40abg9953g70afee84eba9" version="1">Bạn đã khám phá ra một &lt;font color=&quot;008858&quot;&gt;điểm dịch chuyển&lt;/font&gt;. Khi bỏ chạy khỏi chiến đấu, bạn có thể tẩu thoát đến bất kỳ điểm dịch chuyển nào đã mở. Bạn cũng có thể di chuyển nhanh qua lại giữa các điểm dịch chuyển.</content>
-	<content contentuid="hcd2327bcg9e61g470fg8629gfdd21b2575ac" version="1">Hãy dùng &lt;font color=&quot;008858&quot;&gt;Resurrection Scroll&lt;/font&gt; để Resurrection người đã khuất.</content>
+	<content contentuid="hcd2327bcg9e61g470fg8629gfdd21b2575ac" version="1">Hãy dùng &lt;font color=&quot;008858&quot;&gt;Cuộn Phép Hồi Sinh&lt;/font&gt; để hồi sinh người đã khuất.</content>
 	<content contentuid="h6be906a8ge8fdg40b6g84f4g336123cf64c1" version="1">Để mở một cánh cửa hoặc chiếc rương đã khóa, bạn có thể tìm &lt;font color=&quot;008858&quot;&gt;chìa khóa&lt;/font&gt;, sử dụng &lt;font color=&quot;008858&quot;&gt;dụng cụ mở khóa&lt;/font&gt;, hoặc dùng &lt;font color=&quot;008858&quot;&gt;vũ lực&lt;/font&gt;. Nếu bạn là &lt;font color=&quot;008858&quot;&gt;Kẻ Vong Linh&lt;/font&gt;, bạn có thể bẻ khóa bằng chính những ngón tay xương xẩu của mình.</content>
 	<content contentuid="hd955c0d8g5b89g4b04gab49gae16a6b5e620" version="1">Trỏ vào kẻ địch, nhấn [IE_ContextMenu] và chọn &lt;font color=&quot;008858&quot;&gt;&apos;Kiểm Tra&apos;&lt;/font&gt;. Điểm năng lực &lt;font color=&quot;008858&quot;&gt;Loremaster&lt;/font&gt; càng cao, bạn càng khám phá được nhiều thông tin về mục tiêu.</content>
 	<content contentuid="hf8e9415bg2091g4b30ga61ag5f323b21a7b4" version="1">Thịt mềm để đâm xuyên... Máu ấm để uống cạn...</content>
@@ -9223,7 +9223,7 @@
 	<content contentuid="hfd053f52ga9b0g4e9fgb5deg2061ff31914f" version="1">Chiến Đấu: Thanh Phím Nóng</content>
 	<content contentuid="hfd510ac8ged9cg43cagbe42g766d13215e73" version="1">Chiến Đấu: Đâm Lén</content>
 	<content contentuid="h455af782gb7ddg4a77g808cgfb5eb2bce0b7" version="1">Di chuyển vào &lt;font color=&quot;008858&quot;&gt;vùng hình nón&lt;/font&gt; phía sau kẻ địch và tấn công khi đang cầm dao găm để thực hiện đòn &lt;font color=&quot;008858&quot;&gt;đâm lén&lt;/font&gt;. Đâm lén thành công sẽ lập tức gây ra Critical Hit!</content>
-	<content contentuid="h17574435ge631g443fgbc2cg7a7e82d2168c" version="1">Reflection Dialogue</content>
+	<content contentuid="h17574435ge631g443fgbc2cg7a7e82d2168c" version="1">Đối Thoại Phản Tỉnh</content>
 	<content contentuid="hd1d4d447gee1eg468ag8089gb758571ffc7d" version="1">Khi các thành viên trong nhóm có &lt;font color=&quot;008858&quot;&gt;dấu chấm than&lt;/font&gt; trên đầu, hãy trỏ vào họ rồi nhấn [IE_Interact].</content>
 	<content contentuid="h3624ce77gfe3bg4e5bgb73bgea73cc09b11e" version="1">Tấn Công Vật Phẩm</content>
 	<content contentuid="ha5b1fd8agd56bg47b3g9a34gd59d214ac83c" version="1">Trỏ vào chiếc rương và nhấn [IE_ControllerContextMenu] để mở Menu Hành Động. Chọn &lt;font color=&quot;008858&quot;&gt;&apos;Tấn Công&apos;&lt;/font&gt; và xác nhận bằng [IE_Interact].</content>
@@ -9497,8 +9497,8 @@
 	<content contentuid="hd7bc93abg1b78g48bbgac0bgef4468bf3e23" version="1">Nhân vật này không ưa bạn và sẽ không giao dịch đâu. &lt;br&gt;Một món quà hoặc việc biếu tặng có thể giúp cải thiện thiện cảm của họ.</content>
 	<content contentuid="h647c6587g9256g4341gb735gc06dd8b6bddb" version="1">Trong những cuộc hội thoại liên quan đến cả nhóm, các nhân vật &lt;font color=&quot;008858&quot;&gt;không phải&lt;/font&gt; hóa thân sẽ tự động đưa ra câu trả lời của riêng mình.</content>
 	<content contentuid="hcd274169gbbdcg4976g8720gea244d584798" version="1">Hội Thoại Cả Nhóm</content>
-	<content contentuid="hac1167fagc7cbg4679g866cga33b611a7757" version="1">Bạn đã tìm thấy một &lt;font color=&quot;008858&quot;&gt;Arrow Đặc Biệt&lt;/font&gt;! Những Arrow này mang đặc tính phép thuật và bất kỳ ai mang theo &lt;font color=&quot;008858&quot;&gt;cung&lt;/font&gt; hoặc &lt;font color=&quot;008858&quot;&gt;nỏ&lt;/font&gt; đều có thể sử dụng được.</content>
-	<content contentuid="ha331b2dfgca59g4d51g8db3g1a7abdf1b0c0" version="1">Arrow Đặc Biệt</content>
+	<content contentuid="hac1167fagc7cbg4679g866cga33b611a7757" version="1">Bạn đã tìm thấy một &lt;font color=&quot;008858&quot;&gt;Mũi Tên Đặc Biệt&lt;/font&gt;! Những mũi tên này mang đặc tính phép thuật và bất kỳ ai mang theo &lt;font color=&quot;008858&quot;&gt;cung&lt;/font&gt; hoặc &lt;font color=&quot;008858&quot;&gt;nỏ&lt;/font&gt; đều có thể sử dụng được.</content>
+	<content contentuid="ha331b2dfgca59g4d51g8db3g1a7abdf1b0c0" version="1">Mũi Tên Đặc Biệt</content>
 	<content contentuid="h28054f9fg5ddfg426fga213g6e2b9203db7e" version="1">Kiểm Tra Chỉ Số Thuộc Tính</content>
 	<content contentuid="hf903c190gede4g4702g949dg18a2ed148973" version="1">Để vượt qua một lượt kiểm tra chỉ số thuộc tính, chỉ số thuộc tính của bạn phải cao hơn một giá trị nhất định. Nhiệm vụ càng khó thì yêu cầu sẽ càng cao.</content>
 	<content contentuid="h23f7dbdbgf729g4c59gaaa3g88e85c69c6c4" version="1">Polymorph Relinquished</content>
@@ -9723,7 +9723,7 @@
 	<content contentuid="h71c8fc3eg415bg4cedgba5fgb720f9ca3023" version="1">Mở khóa [1]</content>
 	<content contentuid="h03b9013dg183cg4543gbcd5gf9e832e74fae" version="1">Không Thể Phá Hủy</content>
 	<content contentuid="h54bec796ge442g4d5fgb6bbg524e36927eac" version="1">Action Points Khởi Đầu:</content>
-	<content contentuid="hdf87671fg549ag4025g8f28gb132b9ca9fe4" version="1">Action Points Mỗi Lượt</content>
+	<content contentuid="hdf87671fg549ag4025g8f28gb132b9ca9fe4" version="1">Turn Action Points</content>
 	<content contentuid="h5c8650b6g8b3fg4e24ga870gf50e6c5014f4" version="1">Cannot Be Unequipped</content>
 	<content contentuid="h40e85adeg098dg454bg9a3ag67be290e5476" version="1">Bị Đánh Cắp</content>
 	<content contentuid="hb3cfcdbag90a8g495cgb282gd36970384f1e" version="1">Unrepairable</content>
@@ -10194,8 +10194,8 @@
 	<content contentuid="hbb9884d7g3b9ag43dfga88egdcc32db8bd74" version="1">&lt;br&gt;Cơ bản: [1]</content>
 	<content contentuid="h89018e24g2f67g4f5bg80e1gc6724d1a122e" version="1">&lt;br&gt;Từ Trang Bị: [1][2]</content>
 	<content contentuid="h07ef9f40g7f92g45d1g9f7egb3628a5ab01d" version="1">&lt;br&gt;Số Action Points bạn nhận được ở các lượt tiếp theo.</content>
-	<content contentuid="hb66619ebg0932g4496gb61agc9874e763b26" version="1">&lt;br&gt;Từ [1]: AP Mỗi Lượt bằng AP Tối Đa.</content>
-	<content contentuid="h2f644eafg3fcag4043ga68bg4f8e6488b840" version="1">&lt;br&gt;Từ [1]: Start AP bằng AP Tối Đa.</content>
+	<content contentuid="hb66619ebg0932g4496gb61agc9874e763b26" version="1">&lt;br&gt;Từ [1]: AP Mỗi Lượt bằng Max AP.</content>
+	<content contentuid="h2f644eafg3fcag4043ga68bg4f8e6488b840" version="1">&lt;br&gt;Từ [1]: Starting AP bằng Max AP.</content>
 	<content contentuid="hfabcc55fgc0d2g45ccg85c7g2ebf651f470f" version="1">&lt;br&gt;&lt;br&gt;Action Points Mỗi Lượt: [1]</content>
 	<content contentuid="hfa8c138bg7c52g4b7fgaccdgbe39e6a3324c" version="1">&lt;br&gt;Từ Vũ Khí: [1]-[2]</content>
 	<content contentuid="h0881bb60gf067g4223ga925ga343fa0f2cbd" version="1">&lt;br&gt;Từ Nắm Đấm: [1]-[2]</content>
@@ -10316,17 +10316,17 @@
 	<content contentuid="heb79a487g4757g4252g9775gbbdc437699e4" version="1">[1] cho bạn thêm +[2] Wits khi phát hiện bẫy.</content>
 	<content contentuid="h9dfd9964g46e9g421aga42fge77eca278e1e" version="1">[1] tặng cho bạn thêm một điểm vào [2] và một điểm vào [3].</content>
 	<content contentuid="hd3951d31gd5a1g430bg9988g5adc3465f6ae" version="1">Nhân vật sở hữu [1] không thể bị Knocked Down.</content>
-	<content contentuid="hb6ef5200g4cd4g48dag8006gac3dc3e8aa51" version="1">Khi đang Lén Lút, [1] tăng sát thương đòn đánh thêm [2]%. Đồng thời giảm [3] Điểm Hành Động tiêu tốn khi vào chế độ Lén Lút.</content>
+	<content contentuid="hb6ef5200g4cd4g48dag8006gac3dc3e8aa51" version="1">Khi đang Lén Lút, [1] tăng sát thương đòn đánh thêm [2]%. Đồng thời giảm [3] AP tiêu tốn khi vào chế độ Lén Lút.</content>
 	<content contentuid="hd7c21999g602cg4497gaa65g41507b81eda1" version="1">[1] tăng Action Points hồi phục và Action Points Tối Đa của bạn thêm [2] khi máu của bạn xuống dưới [3]%.</content>
 	<content contentuid="h6f77e8f2g044eg44a8gacb8g64457aac8c8f" version="1">[1] tăng tầm thi triển của kỹ năng và cuộn phép thêm [2]m. Không áp dụng cho các kỹ năng cận chiến và tầm chạm.</content>
-	<content contentuid="h46770f2agdbb8g47eag9e0eg65ac47bde918" version="1">Với [1], bạn bắt đầu mỗi Hiệp Đấu với Điểm Hành Động Tối Đa, nhưng Giáp Phép Thuật và Physical Armour không thể bảo vệ bạn khỏi các hiệu ứng trạng thái.</content>
+	<content contentuid="h46770f2agdbb8g47eag9e0eg65ac47bde918" version="1">Với [1], bạn bắt đầu mỗi Hiệp Đấu với Max AP, nhưng Giáp Phép Thuật và Physical Armour không thể bảo vệ bạn khỏi các hiệu ứng trạng thái.</content>
 	<content contentuid="hd0c4c763gc5deg4381gb73eg59493fa5232b" version="1">[1] làm giảm Thiện Cảm của mọi người đối với bạn đi [2], nhưng cho bạn thêm [3] điểm vào [4].</content>
 	<content contentuid="hd2ce8051g60adg4d7ega77cg86b745bd1b5c" version="1">[1] nhân đôi hiệu quả của thức ăn và bình thuốc.</content>
 	<content contentuid="h653df73ag9464g423fgad5ag09d19dbd8ad4" version="1">[1] cho bạn thêm [2]% sát thương khi đánh các đối thủ đang bị Slowed, Tàn Tật hoặc Knocked Down.</content>
 	<content contentuid="h81ca938fg5ef4g452agb093g1294e2f0718b" version="1">[1] hồi máu cho bạn khi đứng trên vũng máu.</content>
 	<content contentuid="h3886606fg0cc0g49b9g9bbcg3ea8baa4c040" version="1">[1] giảm [2] Action Points tiêu tốn cho phép thuật khi đứng trên Bề Mặt cùng nguyên tố.</content>
 	<content contentuid="hcb3f875fg901eg406bg8ae3g315c4fa67509" version="1">[1] giúp bạn miễn nhiễm với các hiệu ứng môi trường.</content>
-	<content contentuid="hbaf5c48eg86eeg4947gb884g6508d4dbd1fe" version="1">[1] mang lại +[2] Điểm Hành Động Tối Đa, +[3] Recovery AP, +[4]% Vitality, +[5]% Physical Armour, +[6]% Magic Armour, đồng thời nhân đôi số điểm đã đầu tư vào Chỉ Số Thuộc Tính - tối đa 40 - và các năng lực chiến đấu (ngoại trừ năng lực Polymorph) - tối đa 10 - khi bạn phiêu lưu một mình hoặc đi cùng tối đa một bạn đồng hành. Phần cộng thêm này sẽ tạm thời bị gỡ bỏ khi có hơn hai thành viên trong tổ đội hiện tại.</content>
+	<content contentuid="hbaf5c48eg86eeg4947gb884g6508d4dbd1fe" version="1">[1] mang lại +[2] Max AP, +[3] AP Recovery, +[4]% Vitality, +[5]% Physical Armour, +[6]% Magic Armour, đồng thời nhân đôi số điểm đã đầu tư vào Chỉ Số Thuộc Tính - tối đa 40 - và các năng lực chiến đấu (ngoại trừ năng lực Polymorph) - tối đa 10 - khi bạn phiêu lưu một mình hoặc đi cùng tối đa một bạn đồng hành. Phần cộng thêm này sẽ tạm thời bị gỡ bỏ khi có hơn hai thành viên trong tổ đội hiện tại.</content>
 	<content contentuid="ha4c23394ge3d0g42d1ga894g577379e4e6f9" version="1">[1] giúp bạn miễn nhiễm với Choáng.</content>
 	<content contentuid="hc0850870g2eebg4bc6gbda9g161bd04d63cd" version="1">[1] cho bạn thêm 2 điểm vào [2], nhưng bạn sẽ mất một điểm Intelligence.</content>
 	<content contentuid="h9987aab3ged6ag4e04g822bg777e5a929fb8" version="1">[1] giúp bạn miễn nhiễm với [2], nhưng bạn không thể chạy trốn khỏi giao tranh được nữa.</content>
@@ -10342,7 +10342,7 @@
 	<content contentuid="hfd166830gc9d4g41dcg93deg8df5d94f1c22" version="1">Nhân vật sở hữu [1] sẽ tìm thấy một số bí mật nhất định xuyên suốt trò chơi.</content>
 	<content contentuid="h8fbbcc05gdfedg47a6g890bg15fdc6e27028" version="1">[1] cho bạn lượng Giáp cộng thêm bằng năng lực Warfare của bạn + [2].</content>
 	<content contentuid="h1454af55gdb0fg4d6fgbde1g8235fa16d980" version="1">[1] tăng tầm tấn công của Cung, Nỏ và Súng Trường thêm [2]m.</content>
-	<content contentuid="h2b97bbedga210g46c7ga762g74ab945b27f5" version="1">[1] giảm [2] Điểm Hành Động tiêu tốn khi sử dụng Dao Găm và Dao.</content>
+	<content contentuid="h2b97bbedga210g46c7ga762g74ab945b27f5" version="1">[1] giảm [2] AP tiêu tốn khi sử dụng Dao Găm và Dao.</content>
 	<content contentuid="h6a4d6da0g29cfg44ecg8913g5a0a76cf1bbd" version="1">[1] cho bạn [2]% cơ hội thu hồi lại mũi tên đặc biệt sau khi bắn.</content>
 	<content contentuid="h0e2dc6e9g5a11g45bagbde6gaa8a03fd1667" version="1">[1] cho bạn thêm [2]% cơ hội Né Tránh đòn đánh.</content>
 	<content contentuid="hdb5862ccg234cg4d76g99acgeb5df44f7706" version="1">[1] cho bạn thêm [2]% khả năng chống lại các trạng thái Frozen, Stunned Váng, Petrified và Knocked Down.</content>
@@ -10357,7 +10357,7 @@
 	<content contentuid="h14fda75cgc90ag481cg8ca5gf31b3cf5f062" version="1">[1] cho bạn +[2]% Vitality tối đa và +[3]% Né Tránh.</content>
 	<content contentuid="h68e89d14gb030g4fa7g807dg19b0a32eaa7d" version="1">[1] cho bạn +[2] Bartering.</content>
 	<content contentuid="hfb009de5g5552g49b2g8d31g80ca64be659e" version="1">[1] cho bạn thêm [2]% Critical Chance và [3]% Critical Multiplier.</content>
-	<content contentuid="h0da6aab0g20b7g47e6gb38bg6a40d4a77168" version="1">Bạn nhận được +[2] Persuasion từ [1].</content>
+	<content contentuid="h0da6aab0g20b7g47e6gb38bg6a40d4a77168" version="1">Bạn nhận được +[2] Thuyết phục từ [1].</content>
 	<content contentuid="h998324e4g5715g4343g9a50g58f7de8ab6a5" version="1">[1] cho bạn +[2]% Fire Resistance và +[3]% Poison Resistance.</content>
 	<content contentuid="hfc3dfe78g9089g4d34g901cgfda31fb689f6" version="1">[1] cho phép bạn ăn các bộ phận cơ thể để tiếp cận ký ức của người đã khuất.</content>
 	<content contentuid="h2e80f302g3024g48bcg8ffegabba5ce7a14b" version="1">[1] cho bạn +[2] Loremaster.</content>
@@ -10367,13 +10367,13 @@
 	<content contentuid="h98163163g695ag4813gb105g3ade9ea09050" version="1">[1] cho bạn thêm [2] Action Points sau khi tung đòn kết liễu, tối đa một lần mỗi lượt.</content>
 	<content contentuid="hd96e80c4g1c44g4851gb6a5g24063a0acd4f" version="1">[1] cho bạn [2] Constitution và +[3] Intelligence.</content>
 	<content contentuid="ha68e51d2g208eg4668gad97g0ce18a63ea1b" version="1">[1] cho bạn [2] Constitution và +[3] Wits.</content>
-	<content contentuid="h91a3adcbg43d8g4d85ga819gffe52d51a629" version="1">[1] cho phép nhân vật của bạn di chuyển miễn phí tương đương [2] Điểm Hành Động mỗi lượt.</content>
+	<content contentuid="h91a3adcbg43d8g4d85ga819gffe52d51a629" version="1">[1] cho phép nhân vật của bạn di chuyển miễn phí tương đương [2] AP mỗi lượt.</content>
 	<content contentuid="h1bfdf2e6g55b2g4296gaf68g092d466df657" version="1">[1] cho bạn [2] Constitution và +[3] Strength.</content>
 	<content contentuid="hbde985cfgb1c4g4bb6g9a61gbec72c9b4ed6" version="1">[1] cho bạn thêm [2] điểm vào chỉ số Memory.</content>
 	<content contentuid="h3a46e939gee4fg4009ga15fg86804238276b" version="1">[1] cho bạn điều khiển thêm một Sinh Vật Triệu Hồi.</content>
 	<content contentuid="h9819de28gc33bg4bc1gab21g5abcfe493da9" version="1">[1] cho bạn [2] Constitution.</content>
 	<content contentuid="h4df4a910ge25cg4309gb5bbg7300680a1043" version="1">[1] cho bạn +[2] Bartering.</content>
-	<content contentuid="hf3cd8067g36c0g4b48ga4dfg361f33579b43" version="1">[1] giảm [2] Điểm Hành Động tiêu tốn khi dùng lựu đạn và cuộn phép nếu Tay Phụ của bạn đang trống.</content>
+	<content contentuid="hf3cd8067g36c0g4b48ga4dfg361f33579b43" version="1">[1] giảm [2] AP tiêu tốn khi dùng lựu đạn và cuộn phép nếu Tay Phụ của bạn đang trống.</content>
 	<content contentuid="hc37324bdg4088g4df7gbf3bg944c59d7eeb3" version="1">[1] khiến bạn nổ tung thành một đám mây máu khi chết, gây Physical Damage bằng [2]% Vitality của bạn trong bán kính [3] mét.</content>
 	<content contentuid="h493986c9g104eg4517g9c49g90cee026cd6c" version="1">[1] cộng thêm [2]% tổng lượng hồi máu bạn nhận được từ kỹ năng hoặc Vật Phẩm Tiêu Hao vào Magic Armour của bạn.</content>
 	<content contentuid="h53f1f4d5gf664g4cb3gac8dgb4fbd2651d51" version="1">Với [1], một số hiệu ứng trạng thái do bạn gây ra sẽ không còn bị chặn bởi Giáp Phép Thuật hay Physical Armour, đồng thời thời lượng của chúng được kéo dài thêm một lượt. Thiêu Đốt, Poisoned, Bleeding, Necrofire, Axit, Suffocating, Trói Chặt, Tử Nguyện và Đứt Gân đều chịu ảnh hưởng từ thiên phú này.</content>
@@ -10397,12 +10397,12 @@
 	<content contentuid="h278b2bccg1afcg4314gbfcbgb10105ebc12b" version="1">Khi được Hồi Sinh, bạn sẽ hồi đầy máu.</content>
 	<content contentuid="h20651336g5c38g40f0ga905g9248e33643d9" version="1">Thiện Cảm của tất cả động vật được tăng lên.</content>
 	<content contentuid="h06b89a5fg2d13g4b54gaef1g2df30e4da786" version="1">&lt;br&gt;Từ [1]: [2][3]%</content>
-	<content contentuid="h18f97d5bg9a79g4917g809dgb0ac7a5ec302" version="1">Strength tăng sát thương của bạn với các vũ khí và kỹ năng dựa trên Strength, đồng thời cho phép bạn nhấc và mang theo những vật phẩm nặng hơn.</content>
+	<content contentuid="h18f97d5bg9a79g4917g809dgb0ac7a5ec302" version="1">Strength tăng sát thương của bạn với các vũ khí và kỹ năng dựa trên sức mạnh, đồng thời cho phép bạn nhấc và mang theo những vật phẩm nặng hơn.</content>
 	<content contentuid="hd34f1fffge7d6g4894gbb09ga919f49d675b" version="1">&lt;br&gt;Từ Constitution: [1]</content>
 	<content contentuid="h5d810b3fg9b8bg475dg9b66g20a1af1390a7" version="1">&lt;br&gt;Từ Wits: [1]</content>
 	<content contentuid="h40a5f5f3g71c3g43fcgb26cg8edc97938276" version="1">Constitution quyết định lượng Vitality mà bạn có.</content>
 	<content contentuid="h5f74f24cg7845g4b13gb40ag72f88b4688d1" version="1">Memory ảnh hưởng đến số lượng Memory Slot của bạn, vốn cần thiết để học kỹ năng. Những kỹ năng mạnh mẽ hơn sẽ tiêu tốn nhiều Memory Slot hơn.</content>
-	<content contentuid="h75391bafg8744g4441g9b1egf52f182f96fc" version="1">Finesse tăng sát thương của bạn với các vũ khí và kỹ năng dựa trên sự Finesse.</content>
+	<content contentuid="h75391bafg8744g4441g9b1egf52f182f96fc" version="1">Finesse tăng sát thương của bạn với các vũ khí và kỹ năng dựa trên sự khéo léo.</content>
 	<content contentuid="h6b67efcagf943g43a1g959eg36f9ecc42e7e" version="1">Quyết định lượng sát thương dựa trên Trí Tuệ mà bạn gây ra.</content>
 	<content contentuid="h95445c28ga761g4804g8944g93ca17d9dbe6" version="1">Physical Armour hấp thụ Physical Damage. Chừng nào Physical Armour của bạn vẫn trên 0, bạn sẽ miễn nhiễm với các trạng thái vật lý như Bleeding và Knocked Down.</content>
 	<content contentuid="h3f9a1615g1393g4310g954egb5b0db8e3e8a" version="1">Magic Armour hấp thụ sát thương phép thuật. Chừng nào Magic Armour của bạn vẫn trên 0, bạn sẽ miễn nhiễm với các trạng thái phép thuật như Bỏng Cháy và Stunned Váng.</content>
@@ -10616,7 +10616,7 @@
 	<content contentuid="h501e9bf2g0335g4163g80e2g4822c16d6abb" version="1">Container</content>
 	<content contentuid="h5e780ba0g31bdg489dgb0d5ged8d61e01564" version="1">Lấy Tất Cả</content>
 	<content contentuid="h1edf105bga52dg4755g971bgd2e45baa5132" version="1">Cấp Độ</content>
-	<content contentuid="hc9eb3ff8ge40dg4d7bg91d2gd2107aa86f9c" version="1">([1] Điểm Hành Động)</content>
+	<content contentuid="hc9eb3ff8ge40dg4d7bg91d2gd2107aa86f9c" version="1">([1] AP)</content>
 	<content contentuid="hba76b572ga61eg4ca2g9fc9gfe667778b6e7" version="1">THÀNH CÔNG</content>
 	<content contentuid="hde0423f1g63aag4671gbd97g8cece0db666d" version="1">THẤT BẠI</content>
 	<content contentuid="hd33000bfgb4c7g4d77g978bg26fbc81d07b1" version="1">Tổng Quan Ghi Chú Dán</content>
@@ -10674,7 +10674,7 @@
 	<content contentuid="hc73fdd14gd1a8g4817g8f21g7d7eb1f80100" version="1">Trọng Lượng Tối Đa Của Vật Phẩm Đánh Cắp</content>
 	<content contentuid="h32afab3bg46b9g40dfg8a3egdcb1acf960d3" version="1">Các tệp của mod &apos;[1]&apos; hoặc các phần phụ thuộc của nó không hợp lệ. Điều này có thể do tệp bị hỏng hoặc một số tệp đã bị thay đổi. Bạn sẽ không thể chơi mod này ở chế độ nhiều người chơi.</content>
 	<content contentuid="he7fc4e6eg5bf4g43e3g9bdbgf0f8ac939e35" version="1">Chưa kết nối với máy chủ [1]</content>
-	<content contentuid="hacbd0a78g8000g4514g9fb6g1b87ab255d58" version="1">(c)Bản quyền 2017-2018 Larian Studios, Bảo lưu mọi quyền.</content>
+	<content contentuid="hacbd0a78g8000g4514g9fb6g1b87ab255d58" version="1">(c) Bản quyền 2017-2018 Larian Studios, Bảo lưu mọi quyền.</content>
 	<content contentuid="hb0e15fe2g734fg4a5ega0aagd454e4c51959" version="1">Nhấn phím bất kỳ hoặc [Button1] để bắt đầu</content>
 	<content contentuid="h3220703ag5fa5g4c32g89f0gf46c3ba1a792" version="1">Không tìm thấy bản lưu tương thích nào!</content>
 	<content contentuid="h8942d1b3gb38fg4ceagb029g1df4cbf8ea58" version="1">Chiến dịch đang hoạt động của bạn đã nhận được bản cập nhật. Các thay đổi sẽ được áp dụng sau khi khởi động lại. Thoát trò chơi ngay bây giờ?</content>
@@ -11125,7 +11125,7 @@
 	<content contentuid="h0c9c08adga9a5g4867gb6b3g2f11606e62de" version="1">Thực Phẩm</content>
 	<content contentuid="h841e443bg331fg40b0g9b8agaaee56d2f6ef" version="1">Đồ Vật</content>
 	<content contentuid="h4cbec5acg0749g4eb0ga934g7d5f2890eab3" version="1">Armour</content>
-	<content contentuid="hb6b5dcadg5c90g4c58g9eabgcc3754631220" version="1">Arrow</content>
+	<content contentuid="hb6b5dcadg5c90g4c58g9eabgcc3754631220" version="1">Mũi Tên</content>
 	<content contentuid="hfa490e2ag0b86g4bbfg9369gf6b61f2abc29" version="1">[1] Bất Kỳ</content>
 	<content contentuid="h3eb5b90ag9723g44fcg82f1ge23bec6a2053" version="1">Các Kết Hợp Tiềm Năng</content>
 	<content contentuid="hbb6c88d7g70b3g47cbgaa72g24b2f0e79d75" version="1">Grimoire</content>
@@ -11352,7 +11352,7 @@
 	<content contentuid="h2a5e1222gc93fg4743g8e4egc39435701062" version="1">Chúng tôi vẫn đang tải! Vui lòng thử lại sau.</content>
 	<content contentuid="h67672833g36bcg4ed7g9741gdf608b8ad5a1" version="1">Bạn đã bị đuổi khỏi trò chơi</content>
 	<content contentuid="h6daa990egbaa9g4d8fg8138g26520a2da3e9" version="1">Tải bản lưu thất bại.</content>
-	<content contentuid="h108893c5g99d8g41ebg9564g3afbf7a7296b" version="1">Kết nối thất bại: Máy chủ dùng phiên bản mod khác - Máy chủ([1]:[2]), Máy khách([3]:[4]).</content>
+	<content contentuid="h108893c5g99d8g41ebg9564g3afbf7a7296b" version="1">Kết nối thất bại: Máy chủ dùng phiên bản mod khác - Máy chủ ([1]:[2]), Máy khách ([3]:[4]).</content>
 	<content contentuid="h4e179a71g59fcg480ag8b9bg9ccf585bd301" version="1">Lỗi phụ thuộc của mod</content>
 	<content contentuid="hec48e20cg9e4fg4b44g96b0geff9c300d242" version="1">Bạn đã kết nối rồi.</content>
 	<content contentuid="h5600f5e8g7a1eg453ag8d08gba59f44b1cba" version="1">Kết nối thất bại: gói bổ sung &apos;[1]&apos; và/hoặc các thành phần phụ thuộc của gói này không khớp với máy chủ. Nguyên nhân có thể do tệp bị hỏng hoặc một số tệp đã bị thay đổi.</content>
@@ -11412,7 +11412,7 @@
 	<content contentuid="hdfd47a34gaaa6g4dc8g904agc50a4f11749d" version="1">Tầm Thi Triển</content>
 	<content contentuid="h2829faf9g9677g468eg821cg57720832a59b" version="1">Bán Kính Nổ</content>
 	<content contentuid="h7ef3af11g24a5g436cga930g23e29d50d6dd" version="1">Hồi Phục</content>
-	<content contentuid="h1c0f952cgc3b6g49e7gb54dge7c1b3bb115c" version="1">[1]Sinh Lực</content>
+	<content contentuid="h1c0f952cgc3b6g49e7gb54dge7c1b3bb115c" version="1">[1] HP</content>
 	<content contentuid="h1351a6d8g5dc2g4f9bgbda1gfee5cde2c85e" version="1">Sát thương dựa trên lượng Physical Armour hiện tại của bạn.</content>
 	<content contentuid="hf1ff2734g96adg486fg800cgd9d0320b04c7" version="1">Sát thương dựa trên lượng Magic Armour hiện tại của bạn.</content>
 	<content contentuid="h71b09f9fg285fg4532gab16g1c7640864141" version="1">Sát thương dựa trên cấp độ của bạn và được cộng thêm từ [1].</content>
@@ -11743,9 +11743,9 @@
 	<content contentuid="hd589d36bg8be6g49ceg90adg6b6b338fa76d" version="1">[1]m</content>
 	<content contentuid="hdfbc0f44g7f3dg4985g9621g25cba41922e0" version="1">Mục tiêu nằm ngoài tầm nhìn</content>
 	<content contentuid="h386f7ec0g865cg4444gba46g42e9f9500768" version="1">Mục tiêu ở quá xa</content>
-	<content contentuid="h984df648geba3g4eaagb035g2088d0e58f72" version="1">[1]Điểm Hành Động</content>
+	<content contentuid="h984df648geba3g4eaagb035g2088d0e58f72" version="1">[1] AP</content>
 	<content contentuid="h1fbffe74g605cg4684gbdaegeef32111b83b" version="1">Bạn không thể làm điều này trong hình dạng hiện tại!</content>
-	<content contentuid="h478017a5gdbc6g44ffgb28dga893e733370b" version="1">Không đủ Điểm Hành Động</content>
+	<content contentuid="h478017a5gdbc6g44ffgb28dga893e733370b" version="1">Không đủ AP</content>
 	<content contentuid="he623e91dga8a9g4795g8caag58e8a8a08385" version="1">Quá cao!</content>
 	<content contentuid="h5b51dd18g8fd4g4844g8eccg51b50a68874a" version="1">Quá dốc!</content>
 	<content contentuid="h598217dege9e8g4e21gaf36g3ae186d20aa7" version="1">Thang Leo bị chặn</content>
@@ -12001,7 +12001,7 @@
 	<content contentuid="h1c5a7bd4g93c5g4786g8f25g5b4885320985" version="1">Hồi phục [1] mỗi lượt.</content>
 	<content contentuid="h9cd8f07fg0035g4bb9g8461gaf42afb2005b" version="1">Attack of Opportunity</content>
 	<content contentuid="hb61db515gdffbg464bgbfb3g207e2c8f9eb1" version="1">[1] đã nhận được một Attack of Opportunity</content>
-	<content contentuid="h199a1b11g42a6g46abg9dccg545957b61042" version="1">Invisible trước kẻ địch cho đến khi bạn bước vào vùng tầm nhìn của chúng.</content>
+	<content contentuid="h199a1b11g42a6g46abg9dccg545957b61042" version="1">Tàng hình trước kẻ địch cho đến khi bạn bước vào vùng tầm nhìn của chúng.</content>
 	<content contentuid="h17a31a69g7f96g441eg9c13g065840c55bf5" version="1">Sneaking Thành Công!</content>
 	<content contentuid="h26a380bcg8c2dg413ag85fcge490566fa3ff" version="1">Sneaking Thất Bại!</content>
 	<content contentuid="h4ca75b5ag5e98g4be8g9037geff155f426be" version="1">Đã Mở Khóa</content>
@@ -12064,7 +12064,7 @@
 	<content contentuid="h1148e95cg72d1g4a81gbc52g23666388adcc" version="1">Đang tìm kiếm: [1]%</content>
 	<content contentuid="h421882e2g87bbg40eagae4dga10198331f61" version="1">Draw Surface</content>
 	<content contentuid="h14884b44gc0bcg4fe7gbd6eg40ccb7063607" version="1">Di Chuyển Tới</content>
-	<content contentuid="hc8b063d2gca90g457cgb3dcg735eae03b13c" version="1">Không đủ Điểm Hành Động để đến đích!</content>
+	<content contentuid="hc8b063d2gca90g457cgb3dcg735eae03b13c" version="1">Không đủ AP để đến đích!</content>
 	<content contentuid="h81694455g5980g45fcgbb63g81c01326a049" version="1">Đã móc túi rồi</content>
 	<content contentuid="h767adb67ge7afg4896ga0dcg3bf6cd72623d" version="1">Yêu cầu Thievery: [1].</content>
 	<content contentuid="h9dbef534gd471g4dbdg9419g3855830e3189" version="1">Hiện không thể móc túi.</content>
@@ -12649,7 +12649,7 @@
 	<content contentuid="h7deb8801g30eeg4f49g9aa3g3119670db61a" version="1">[1] nhận được [2]</content>
 	<content contentuid="h6658a3ccg94d7g459ag95e2g2acf2d4e021f" version="1">Sức Hút</content>
 	<content contentuid="hb2b93c25g3985g43a9g8596g611480ee3230" version="1">[1] [2] xp</content>
-	<content contentuid="hf9e7bfeag3fe9g49e4ga349gc5cde5cbb78a" version="1">Projectile deflected!</content>
+	<content contentuid="hf9e7bfeag3fe9g49e4ga349gc5cde5cbb78a" version="1">Đã đỡ đạn bay!</content>
 	<content contentuid="h25f6aa7fgb4e2g4724g8a8fg51147f01881b" version="1">đã tạo</content>
 	<content contentuid="hcd0c5899ge014g486bgbc5fgd9ae916509dc" version="1">hình nón</content>
 	<content contentuid="h7c5b68d4g76f4g428cga417g2aa53f3f00e6" version="1">Lưu trò chơi thất bại - Mã lỗi:&lt;br&gt;[1]</content>
@@ -12666,8 +12666,8 @@
 	<content contentuid="h5d7b4558ga7c5g4833gb265g805d448e3eea" version="1">Người Chơi Vô Danh</content>
 	<content contentuid="h5fff2c33gc5d2g461ega0b9g1bbdd3c68362" version="1">Nhân Vật Vô Danh</content>
 	<content contentuid="haaa28de2g475ag4d41g9baeg7bff123d351e" version="1">Buộc kết thúc lượt!</content>
-	<content contentuid="h01718eadg9b60g4d0bg8250ga98a6296e5a0" version="1">Kết Liễu! +[1] Điểm Hành Động.</content>
-	<content contentuid="h1aad990egc2a4g4756g9432g5c2a18f4df1c" version="1">Đã thu hồi Arrow</content>
+	<content contentuid="h01718eadg9b60g4d0bg8250ga98a6296e5a0" version="1">Kết Liễu! +[1] AP.</content>
+	<content contentuid="h1aad990egc2a4g4756g9432g5c2a18f4df1c" version="1">Đã thu hồi mũi tên</content>
 	<content contentuid="h0fa4314ag3111g4d8eg9a12ga964001fe370" version="1">+1 Source Points</content>
 	<content contentuid="hddaff7deg96c7g44d0gbbdag4f8a4aa8ec45" version="1">Chiến Dịch Quản Trò</content>
 	<content contentuid="hc836592dg24ebg4f97ga3e8g50cab0fc08fb" version="1">[1] đã mở khóa nhãn [2]!</content>
@@ -12691,7 +12691,7 @@
 	<content contentuid="hf8ac2fdbg1e68g4a3bg981eg1ad576def5f2" version="1">Giọng Dẫn Chuyện</content>
 	<content contentuid="hc0596293g615cg4d34ga1ceg62f6c4b1420c" version="1">Giọng Hội Thoại</content>
 	<content contentuid="h5c00fbceg49fag4dfbga47egefe075e85788" version="1">Giọng Thoại Tổng</content>
-	<content contentuid="h1aca489dg4fdeg4bb1g9b2bg982281ae2864" version="1">AP Tối Đa</content>
+	<content contentuid="h1aca489dg4fdeg4bb1g9b2bg982281ae2864" version="1">Maximum AP</content>
 	<content contentuid="h38fd7a07gf031g4dfeg89e2g30679a0898d9" version="1">Start AP</content>
 	<content contentuid="h228e474ag396ag4dc9g837egd8d05d15bbb2" version="1">AP Cost</content>
 	<content contentuid="h0eea0ba2g925ag47bfg87c6gbb27edad0a3a" version="1">SP Cost</content>
@@ -12723,7 +12723,7 @@
 	<content contentuid="he04c3934g32b0g455fgac3dg75f2b7fd2119" version="1">Fire Resistance</content>
 	<content contentuid="h068a4744gf811g42b4ga8b1g29a9c62c13fc" version="1">Vitality Tối Đa</content>
 	<content contentuid="h856999degd5aag435eg895fg50546f5a87f6" version="1">Physical Armour Tối Đa</content>
-	<content contentuid="h544d0f04ga5b2g4350g9208g24b6ba25cbe8" version="1">Hồi Phục AP</content>
+	<content contentuid="h544d0f04ga5b2g4350g9208g24b6ba25cbe8" version="1">AP Recovery</content>
 	<content contentuid="hd0a6556ag7601g41fdg9a72gff05a766e77c" version="1">Nhận</content>
 	<content contentuid="h5a6df2d5ge5dbg40b0g94f9g4ddddbf48c8f" version="1">Kết liễu ngay lập tức mục tiêu có dưới [1]% Vitality.[2][3]</content>
 	<content contentuid="h54e0b91cg48a7g4d5agaedcgbde756a109ea" version="1">[1]% tỷ lệ thành công.</content>
@@ -13099,7 +13099,7 @@
 	<content contentuid="h9b65aab2gf4c4g4b81g96e6g1dcf7ffa8306" version="1">Giày</content>
 	<content contentuid="h185545eagdaf0g4286ga411gd50cbdcabc8b" version="1">Gloves</content>
 	<content contentuid="h1334690dg3acdg44e1ga385g44a5d7305b98" version="1">Crit Chance</content>
-	<content contentuid="h90ab20e0g9be8g44d6g9261gfbcdaab16798" version="1">Sinh Lực</content>
+	<content contentuid="h90ab20e0g9be8g44d6g9261gfbcdaab16798" version="1">HP</content>
 	<content contentuid="heb85c676g65fbg4026g89e7gf1bd9e2caa15" version="1">AP</content>
 	<content contentuid="hdcdce264gd0bcg46b8g88a4g957acde997d1" version="1">WIT</content>
 	<content contentuid="h75833133gc5cbg4422g9e40ge22ba82fbf9a" version="1">Giáp Vật Lý</content>
@@ -13114,7 +13114,7 @@
 	<content contentuid="hd47021f7g7867g4714ga91cg02ac22e9cfb3" version="1">Trọng Lượng Tối Đa</content>
 	<content contentuid="h0cda6f38gcd49g4f74g8e14gd5bc2600a6e7" version="1">Min Damage</content>
 	<content contentuid="h7f512771g9783g4c18g8af1g8c052a73edc5" version="1">Chặn Đòn</content>
-	<content contentuid="hf82911f7g7ee2g4d32gb42ag391f69336428" version="1">Điểm Hành Động Tối Đa</content>
+	<content contentuid="hf82911f7g7ee2g4d32gb42ag391f69336428" version="1">Max AP</content>
 	<content contentuid="hc4281cefg2577g4c22g9a01gf90be11a051f" version="1">Source Points</content>
 	<content contentuid="haf00c1a8gc56bg4eacgbd98g933b95e9f4b7" version="1">Danh Tiếng</content>
 	<content contentuid="h1fbed78cg6928g414ag9046g7ae3aabc8fee" version="1">Karma</content>
@@ -13140,7 +13140,7 @@
 	<content contentuid="he4e50dd3g8b4dg45e5gbc0egef1d1d381236" version="1">Ma Lực: [1][2]&lt;br&gt;</content>
 	<content contentuid="hc9519e1cga46eg4416ga0a3gca3a626c6b73" version="1">Maximum Action Points: [1][2]&lt;br&gt;</content>
 	<content contentuid="h0067fdbeg7733g4cd9gb2cbgdb1a0978b6ab" version="1">Thính Lực: [1][2]&lt;br&gt;</content>
-	<content contentuid="hce44165eg6730g4b0egab0fgcc5ec3e4af57" version="1">Sinh Lực: [1][2]&lt;br&gt;</content>
+	<content contentuid="hce44165eg6730g4b0egab0fgcc5ec3e4af57" version="1">HP: [1][2]&lt;br&gt;</content>
 	<content contentuid="hd5e75476g16dag4bd4gac39gbe972d9c35a2" version="1">Chặn Đòn: [1]%&lt;br&gt;</content>
 	<content contentuid="h47804bebgfbd2g4f05g8c6bg0e73c58f62db" version="1">Tầm Nhìn: [1][2]&lt;br&gt;</content>
 	<content contentuid="hf0dbfd8ag6bb6g48b6gbd99gaeeecf790073" version="1">Initiative: [1][2]&lt;br&gt;</content>
@@ -13280,9 +13280,9 @@
 	<content contentuid="he920062fg4553g4b1eg9935gec94a4c1aa59" version="1">Hành Vi Mờ Ám</content>
 	<content contentuid="h2134d800gfd8eg47d2gb4f7g2cf74f79fc30" version="1">Source</content>
 	<content contentuid="h15d1a799gc3b7g4818gb24eg85ba320af714" version="1">APRecovery</content>
-	<content contentuid="h89797c80gb705g463fg8efbgdef053221c1e" version="1">Điểm Hành Động Khởi Đầu</content>
+	<content contentuid="h89797c80gb705g463fg8efbgdef053221c1e" version="1">Starting AP</content>
 	<content contentuid="h64d26e6bgd17dg47cdga465g5e3fbd70d41b" version="1">Vitality Points</content>
-	<content contentuid="h18700686gb3fdg4451ga09bgdd14ccdad587" version="1">Vitality Tối Đa</content>
+	<content contentuid="h18700686gb3fdg4451ga09bgdd14ccdad587" version="1">Vitality Max</content>
 	<content contentuid="hf3fbbcadg6fddg4e80g90c8g7ba7060c40f9" version="1">Điểm Physical Armour</content>
 	<content contentuid="hbf1a459fgdf0dg4996gb4b6g98f1e68b5387" version="1">Điểm Magic Armour</content>
 	<content contentuid="h8a90a984g45f7g4712g920bg681eda59e261" version="1">Trap Detection</content>
@@ -13300,9 +13300,9 @@
 	<content contentuid="had5101b3gdbcbg4d22g8cecgeaa148afb953" version="1">Trung Bình</content>
 	<content contentuid="h65ebfe46gd963g4791ga921g81303490e697" version="1">Tối Thiểu</content>
 	<content contentuid="ha5c67467gb558g45b9gaf3agb0009f73c279" version="1">Tổng</content>
-	<content contentuid="hffb733a1gadb2g42cdgb2eagb30e899313b1" version="1">Persuasion thất bại! Persuasion của bạn: [1], Yêu cầu: [2]</content>
-	<content contentuid="h15865fd0gcaf7g4e91g80e1g9aca06d83c82" version="1">Persuasion thành công!</content>
-	<content contentuid="hda56f3e0g3397g4e6cgae59gadf4b48d795d" version="1">Persuasion thất bại! Không thể thành công.</content>
+	<content contentuid="hffb733a1gadb2g42cdgb2eagb30e899313b1" version="1">Thuyết phục thất bại! Thuyết phục của bạn: [1], Yêu cầu: [2]</content>
+	<content contentuid="h15865fd0gcaf7g4e91g80e1g9aca06d83c82" version="1">Thuyết phục thành công!</content>
+	<content contentuid="hda56f3e0g3397g4e6cgae59gadf4b48d795d" version="1">Thuyết phục thất bại! Không thể thành công.</content>
 	<content contentuid="h054b59eeg9d24g4037gaaedgba2009171e97" version="1">Thất bại! Không thể thành công.</content>
 	<content contentuid="ha5912f0ag93b1g4e35g8a52g23d76fdccc0c" version="1">Thất bại! Thuộc tính của bạn: [1], Yêu cầu: [2]</content>
 	<content contentuid="he0ee5219gf1f5g4de3g8ca6g2fc29bce3a15" version="1">Thành công!</content>
